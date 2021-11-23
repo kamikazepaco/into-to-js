@@ -19,3 +19,10 @@ for (let i = 0; i < 3; i++)  {
 };
 
 //could also push string into greet and them print console.log(greet)
+
+//adding dynamic greeting from I/O section
+let rlSync = require('readline-sync');
+let firstName = rlSync.question('what is your first name? ');
+let lastName = rlSync.question('what is your last name? ');
+
+console.log(`Good Morrow, ${firstName} ${lastName}!`);

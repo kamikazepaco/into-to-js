@@ -1,0 +1,23 @@
+{
+  "name": "intro-to",
+  "version": "1.0.0",
+  "description": "",
+  "main": "age.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kamikazepaco/into-to-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kamikazepaco/into-to-js/issues"
+  },
+  "homepage": "https://github.com/kamikazepaco/into-to-js#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
