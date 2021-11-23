@@ -16,4 +16,6 @@ for (let i = 0; i < 3; i++)  {
     } else if (i < 3) {
         console.log(`Good evening, ${NAME_LOOP}`);
     }
-}
+};
+
+//could also push string into greet and them print console.log(greet)
